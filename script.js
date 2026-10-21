@@ -1,4 +1,3 @@
-
 /* 1. Update the footer year automatically */
 const footer = document.querySelector("footer p");
 
