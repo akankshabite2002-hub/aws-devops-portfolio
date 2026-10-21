@@ -331,5 +331,17 @@ footer {
     }
 }
 
+.project-link {
+    display: inline-block;
+    margin-top: 14px;
+    color: #93c5fd;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
 
+.project-link:hover {
+    color: #c4b5fd;
+    text-decoration: underline;
+}
 
